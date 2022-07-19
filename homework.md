@@ -35,7 +35,7 @@ HyperText Markup Language
 
 What is CSS useful for?
 
-Making rapid changes in styles of webpages
+Adding style to a web page by dictating how a site is displayed on a browser and making rapid changes in styles of web pages.
 
 # ============================================== #
 
@@ -43,11 +43,9 @@ Making rapid changes in styles of webpages
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-'''
 h1 {
 
 }
-'''
 
 # ============================================== #
 
